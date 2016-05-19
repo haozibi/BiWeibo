@@ -1,6 +1,11 @@
 # BiWeibo
 
-*微博API封装*
+*Python3微博API封装*
+
+## 环境与依赖
+
+* python3
+* requests(pip install requests)
 
 ## OAuth的封装
 
