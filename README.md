@@ -7,7 +7,7 @@
 * python3
 * requests(pip install requests)
 
-## OAuth的封装
+## OAuth2.0的封装
 
 [微博授权机制说明](http://open.weibo.com/wiki/%E6%8E%88%E6%9D%83%E6%9C%BA%E5%88%B6%E8%AF%B4%E6%98%8E)
 
