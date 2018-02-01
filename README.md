@@ -14,7 +14,7 @@
 
 ## Python3 代码示例
 
-```
+```python
 from BiOAuth import *
 
 appKey = '你的app key'
@@ -30,7 +30,7 @@ access_token = a.getAccessToken()
 
 > go get github.com/haozibi/BiWeibo
 
-```
+```go
 package main
 
 import (
