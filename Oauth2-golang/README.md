@@ -1,6 +1,6 @@
 # 代码示例
 
-```
+```go
 package main
 
 import (
